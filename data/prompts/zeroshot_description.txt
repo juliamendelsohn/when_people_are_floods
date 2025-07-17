@@ -1,0 +1,12 @@
+Analyze the tweet below to identify metaphors used to describe immigrants or immigration. In this context, metaphors are words and phrases that are used non-literally and create associations between immigration and other concepts. For each identified metaphor, select the most relevant concept from the following list: 
+
+Concepts (explanations in parentheses):
+Parasite (organisms that feed off a host species at the host’s expense, such as leeches, ticks, fleas, and mosquitoes)
+Vermin (small animals that spread diseases or destroy crops, livestock, or property, such as rats, mice, and cockroaches)
+Animal (living creatures, such as beasts, cows, dogs, sheep, and birds) 
+Water (or liquid motion more broadly)
+Physical Pressure (destructive physical force, such as heavy burdens, crushing forces, and bursting containers) 
+Commodity (economic resources or objects that are traded, exchanged, bought, or sold)
+War (or fights and battles more broadly)
+
+Provide your analysis as a JSON object where keys are the metaphors and values are their most relevant concepts. Only include the concept name (e.g. commodity, animal, parasite). Do not include the concept explanation in your response. If a metaphor is not related to any of the listed concepts, set its value to “none”. If no metaphors are found, return an empty JSON object.
