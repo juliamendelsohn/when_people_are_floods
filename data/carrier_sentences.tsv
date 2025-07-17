@@ -1,0 +1,104 @@
+concept	word	sentence
+animal	attack	They attack them.
+animal	bait	They bait them.
+animal	breed	They breed them.
+animal	brutish	They are brutish.
+animal	butcher	They butcher them.
+animal	capture	They capture them.
+animal	catch	They catch them.
+animal	chase	They chase them down.
+animal	ensnare	They ensnare them.
+animal	ferret	They ferret them out.
+animal	flock	They flock in.
+animal	hunt	They hunt them down.
+animal	lay a trap	They lay a trap for them.
+animal	lure	They lure them in.
+animal	round up	They round them up.
+animal	slaughter	They slaughter them.
+animal	slither	They slither in.
+animal	trap	They trap them.
+animal	wiggle	They wiggle in.
+commodity	distribute	They are distributed between them.
+commodity	engine	They are the engine of it.
+commodity	exchange	They exchange them.
+commodity	export	They export them.
+commodity	import	They import them.
+commodity	instrument	They are instruments.
+commodity	instrumental	They are instrumental to it.
+commodity	packed	They are packed in.
+commodity	process	They are processed.
+commodity	redistribute	They are redistributed between them.
+commodity	share	They accept a share of them.
+commodity	take	They take them in.
+commodity	tool	They are tools.
+commodity	trade	They trade them in.
+parasite	bleed dry	They bleed it dry.
+parasite	bloodthirsty	They are bloodthirsty.
+parasite	cancer	They are a cancer.
+parasite	leech	They leech off them.
+parasite	parasite	They are parasites.
+parasite	scrounge	They scrounge around.
+parasite	scrounger	They are scroungers.
+parasite	sponger	They are spongers.
+pressure	bear brunt	It bears the brunt of them.
+pressure	buckle	It buckles under them.
+pressure	burden	They are a burden.
+pressure	burst	They cause it to burst.
+pressure	bust	They bust it.
+pressure	crumble	They crumble it.
+pressure	fill up	They fill it up.
+pressure	load	They are a load on it.
+pressure	pressure	They put pressure on it.
+pressure	seal	They seal it up.
+pressure	strain	They are a strain on it.
+pressure	stretch	They stretch it thin.
+vermin	cockroach	They are cockroaches.
+vermin	crawl	They crawl in.
+vermin	dirty	They are dirty.
+vermin	disease	They are diseases.
+vermin	fester	They fester.
+vermin	impure	They are impure.
+vermin	infect	They infect it.
+vermin	infest	They infest it.
+vermin	infestation	There is an infestation of them.
+vermin	overrun	They overrun it.
+vermin	plague	They are a plague.
+vermin	poisonous	They are poisonous.
+vermin	rat	They are rats.
+vermin	sneak	They sneak in.
+vermin	swarm	There is a swarm of them.
+vermin	virus	They are a virus.
+war	army	They are an army.
+war	battle	They battle them.
+war	bludgeon	They bludgeon them.
+war	capture	They capture them.
+war	crosshairs	They are caught in the crosshairs
+war	fight	They fight them.
+war	invader	They are invaders.
+war	invasion	There is an invasion of them.
+war	regiments	There are regiments of them.
+war	shield	They shield them.
+war	soldiers	They are soldiers.
+war	warriors	They are warriors.
+water	absorb	They absorb them.
+water	deluge	There is a deluge of them.
+water	drain	They drain it.
+water	engulf	They engulf it.
+water	flood	They flood in.
+water	flow	They flow in.
+water	inflow	There is an inflow of them.
+water	influx	There is an influx of them.
+water	inundate	They inundate it.
+water	outflow	There is an outflow of them.
+water	overflow	There is an overflow of them.
+water	pour	They pour in.
+water	spill	They spill in.
+water	spillover	There is a spillover of them.
+water	storm	There is a storm of them.
+water	stream	They stream in.
+water	surge	There is a surge of them.
+water	swamp	They swamp it.
+water	swell	There is a swell of them.
+water	tide	There is a tide of them.
+water	trickle	They trickle in.
+water	wave	There is a wave of them.
