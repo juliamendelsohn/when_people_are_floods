@@ -21,6 +21,7 @@ This repository includes three folders:
     -   `carrier_sentences.tsv`: File containing "carrier sentences" needed for the discourse-level (document embedding) measurement.
     -   `prompts/`: Folder containing .txt files with prompts used for the word-level (LLM) measurement.
 - `code/`: Contains code used for the paper, separated into subfolders for each study component.
+    - `config.py`: Configuration file with paths and constants used throughout the code.
     -  `0_annotation/`: Folder containing code to create the annotation sample, process Qualtrics output files, and calculate agreement. Probably not useful for most users.
     -  `1_models/`: Folder containing code to run the word-level (LLM) and document-level (discourse embedding) models.
         - `0_run_sbert.py`: Code to run the sentence-BERT model for document embeddings.
