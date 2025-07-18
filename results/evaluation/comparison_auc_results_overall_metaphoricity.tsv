@@ -1,0 +1,16 @@
+model1	model2	auc1	auc2	sig
+Meta-Llama-3.1-70B-Instruct_zeroshot_baseline_score	Meta-Llama-3.1-70B-Instruct_zeroshot_description_score	0.6919642857142858	0.6563514610389609	False
+Meta-Llama-3.1-70B-Instruct_zeroshot_baseline_score	gpt-4-turbo-2024-04-09_zeroshot_baseline_score	0.6919642857142858	0.6853693181818182	False
+Meta-Llama-3.1-70B-Instruct_zeroshot_baseline_score	gpt-4-turbo-2024-04-09_zeroshot_description_score	0.6919642857142858	0.6196732954545454	False
+Meta-Llama-3.1-70B-Instruct_zeroshot_baseline_score	gpt-4o-2024-08-06_zeroshot_baseline_score	0.6919642857142858	0.510247564935065	True
+Meta-Llama-3.1-70B-Instruct_zeroshot_baseline_score	gpt-4o-2024-08-06_zeroshot_description_score	0.6919642857142858	0.6607142857142857	False
+Meta-Llama-3.1-70B-Instruct_zeroshot_description_score	gpt-4-turbo-2024-04-09_zeroshot_baseline_score	0.6563514610389609	0.6853693181818182	False
+Meta-Llama-3.1-70B-Instruct_zeroshot_description_score	gpt-4-turbo-2024-04-09_zeroshot_description_score	0.6563514610389609	0.6196732954545454	False
+Meta-Llama-3.1-70B-Instruct_zeroshot_description_score	gpt-4o-2024-08-06_zeroshot_baseline_score	0.6563514610389609	0.510247564935065	True
+Meta-Llama-3.1-70B-Instruct_zeroshot_description_score	gpt-4o-2024-08-06_zeroshot_description_score	0.6563514610389609	0.6607142857142857	False
+gpt-4-turbo-2024-04-09_zeroshot_baseline_score	gpt-4-turbo-2024-04-09_zeroshot_description_score	0.6853693181818182	0.6196732954545454	False
+gpt-4-turbo-2024-04-09_zeroshot_baseline_score	gpt-4o-2024-08-06_zeroshot_baseline_score	0.6853693181818182	0.510247564935065	True
+gpt-4-turbo-2024-04-09_zeroshot_baseline_score	gpt-4o-2024-08-06_zeroshot_description_score	0.6853693181818182	0.6607142857142857	False
+gpt-4-turbo-2024-04-09_zeroshot_description_score	gpt-4o-2024-08-06_zeroshot_baseline_score	0.6196732954545454	0.510247564935065	False
+gpt-4-turbo-2024-04-09_zeroshot_description_score	gpt-4o-2024-08-06_zeroshot_description_score	0.6196732954545454	0.6607142857142857	False
+gpt-4o-2024-08-06_zeroshot_baseline_score	gpt-4o-2024-08-06_zeroshot_description_score	0.510247564935065	0.6607142857142857	True

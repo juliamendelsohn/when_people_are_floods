@@ -1,0 +1,199 @@
+model	concept	r
+Meta-Llama-3.1-70B-Instruct_zeroshot_baseline_count	war	0.47501561087018845
+Meta-Llama-3.1-70B-Instruct_zeroshot_baseline_score	war	0.4709860166865463
+Meta-Llama-3.1-70B-Instruct_zeroshot_description_count	war	
+Meta-Llama-3.1-70B-Instruct_zeroshot_description_score	war	
+gpt-4-turbo-2024-04-09_zeroshot_baseline_count	war	0.49144298733614816
+gpt-4-turbo-2024-04-09_zeroshot_baseline_score	war	0.4447841081813027
+gpt-4-turbo-2024-04-09_zeroshot_description_count	war	0.44492987989397503
+gpt-4-turbo-2024-04-09_zeroshot_description_score	war	0.4362472462956312
+gpt-4o-2024-08-06_zeroshot_baseline_count	war	0.4862484035777306
+gpt-4o-2024-08-06_zeroshot_baseline_score	war	0.4824375094497758
+gpt-4o-2024-08-06_zeroshot_description_count	war	0.46680655418410977
+gpt-4o-2024-08-06_zeroshot_description_score	war	0.4555432365249933
+baseline_sbert-carrier	war	0.3667869887758438
+baseline_count	war	0.4479671629533972
+baseline_gpt4-turbo	war	0.3719340213598322
+baseline_gpt4-turbo_sbert-carrier	war	0.49216240866084027
+Meta-Llama-3.1-70B-Instruct_zeroshot_baseline_score_sbert	war	0.5608260774043522
+Meta-Llama-3.1-70B-Instruct_zeroshot_description_score_sbert	war	0.3667869887758438
+gpt-4-turbo-2024-04-09_zeroshot_baseline_score_sbert	war	0.5401485220871993
+gpt-4-turbo-2024-04-09_zeroshot_description_score_sbert	war	0.4888164138376444
+gpt-4o-2024-08-06_zeroshot_baseline_score_sbert	war	0.564918220038031
+gpt-4o-2024-08-06_zeroshot_description_score_sbert	war	0.49991526840306516
+Meta-Llama-3.1-70B-Instruct_zeroshot_baseline_count	animal	0.536308332462505
+Meta-Llama-3.1-70B-Instruct_zeroshot_baseline_score	animal	0.5054397614402181
+Meta-Llama-3.1-70B-Instruct_zeroshot_description_count	animal	-0.02802684516529173
+Meta-Llama-3.1-70B-Instruct_zeroshot_description_score	animal	-0.026823094315111755
+gpt-4-turbo-2024-04-09_zeroshot_baseline_count	animal	0.4631005151552299
+gpt-4-turbo-2024-04-09_zeroshot_baseline_score	animal	0.3663359013562902
+gpt-4-turbo-2024-04-09_zeroshot_description_count	animal	0.5480852697615206
+gpt-4-turbo-2024-04-09_zeroshot_description_score	animal	0.5369626599510866
+gpt-4o-2024-08-06_zeroshot_baseline_count	animal	0.4784600344634434
+gpt-4o-2024-08-06_zeroshot_baseline_score	animal	0.4133590321843724
+gpt-4o-2024-08-06_zeroshot_description_count	animal	0.48374180217827834
+gpt-4o-2024-08-06_zeroshot_description_score	animal	0.47894573167946725
+baseline_sbert-carrier	animal	0.4523021917792818
+baseline_count	animal	0.5047263816577493
+baseline_gpt4-turbo	animal	0.3307282840087068
+baseline_gpt4-turbo_sbert-carrier	animal	0.5002020470783942
+Meta-Llama-3.1-70B-Instruct_zeroshot_baseline_score_sbert	animal	0.6029807345758872
+Meta-Llama-3.1-70B-Instruct_zeroshot_description_score_sbert	animal	0.42277633192628505
+gpt-4-turbo-2024-04-09_zeroshot_baseline_score_sbert	animal	0.4988843328726786
+gpt-4-turbo-2024-04-09_zeroshot_description_score_sbert	animal	0.6191119728925041
+gpt-4o-2024-08-06_zeroshot_baseline_score_sbert	animal	0.5448910595106282
+gpt-4o-2024-08-06_zeroshot_description_score_sbert	animal	0.590715042975063
+Meta-Llama-3.1-70B-Instruct_zeroshot_baseline_count	commodity	0.13004313200210713
+Meta-Llama-3.1-70B-Instruct_zeroshot_baseline_score	commodity	0.14590282695054754
+Meta-Llama-3.1-70B-Instruct_zeroshot_description_count	commodity	0.13064234876363437
+Meta-Llama-3.1-70B-Instruct_zeroshot_description_score	commodity	0.1304668398362339
+gpt-4-turbo-2024-04-09_zeroshot_baseline_count	commodity	0.1273059907858021
+gpt-4-turbo-2024-04-09_zeroshot_baseline_score	commodity	0.16701065752069622
+gpt-4-turbo-2024-04-09_zeroshot_description_count	commodity	0.4470111158744023
+gpt-4-turbo-2024-04-09_zeroshot_description_score	commodity	0.44753191842334333
+gpt-4o-2024-08-06_zeroshot_baseline_count	commodity	0.19950881161807332
+gpt-4o-2024-08-06_zeroshot_baseline_score	commodity	0.22545423833847927
+gpt-4o-2024-08-06_zeroshot_description_count	commodity	0.43629218562907335
+gpt-4o-2024-08-06_zeroshot_description_score	commodity	0.433305329382361
+baseline_sbert-carrier	commodity	0.27215137716090765
+baseline_count	commodity	0.19626706831063798
+baseline_gpt4-turbo	commodity	0.21136890515008563
+baseline_gpt4-turbo_sbert-carrier	commodity	0.3105580561198212
+Meta-Llama-3.1-70B-Instruct_zeroshot_baseline_score_sbert	commodity	0.240957315319156
+Meta-Llama-3.1-70B-Instruct_zeroshot_description_score_sbert	commodity	0.29706830561410114
+gpt-4-turbo-2024-04-09_zeroshot_baseline_score_sbert	commodity	0.2417117134424637
+gpt-4-turbo-2024-04-09_zeroshot_description_score_sbert	commodity	0.4661105910690584
+gpt-4o-2024-08-06_zeroshot_baseline_score_sbert	commodity	0.2860889576282725
+gpt-4o-2024-08-06_zeroshot_description_score_sbert	commodity	0.39620403349928346
+Meta-Llama-3.1-70B-Instruct_zeroshot_baseline_count	pressure	0.07166886426500639
+Meta-Llama-3.1-70B-Instruct_zeroshot_baseline_score	pressure	0.04262274323544776
+Meta-Llama-3.1-70B-Instruct_zeroshot_description_count	pressure	0.12056080338633857
+Meta-Llama-3.1-70B-Instruct_zeroshot_description_score	pressure	0.12056080338633857
+gpt-4-turbo-2024-04-09_zeroshot_baseline_count	pressure	0.18467154219538598
+gpt-4-turbo-2024-04-09_zeroshot_baseline_score	pressure	0.11910397438760549
+gpt-4-turbo-2024-04-09_zeroshot_description_count	pressure	0.42784238518606005
+gpt-4-turbo-2024-04-09_zeroshot_description_score	pressure	0.4185103684661424
+gpt-4o-2024-08-06_zeroshot_baseline_count	pressure	0.24072557478577908
+gpt-4o-2024-08-06_zeroshot_baseline_score	pressure	0.21382195545678312
+gpt-4o-2024-08-06_zeroshot_description_count	pressure	0.42070132756686174
+gpt-4o-2024-08-06_zeroshot_description_score	pressure	0.4139869256975061
+baseline_sbert-carrier	pressure	0.189078630176784
+baseline_count	pressure	0.2029851297077634
+baseline_gpt4-turbo	pressure	0.10508698653367324
+baseline_gpt4-turbo_sbert-carrier	pressure	0.19115186983732854
+Meta-Llama-3.1-70B-Instruct_zeroshot_baseline_score_sbert	pressure	0.12467743002940997
+Meta-Llama-3.1-70B-Instruct_zeroshot_description_score_sbert	pressure	0.1952918009614542
+gpt-4-turbo-2024-04-09_zeroshot_baseline_score_sbert	pressure	0.2007226140848743
+gpt-4-turbo-2024-04-09_zeroshot_description_score_sbert	pressure	0.3978510879725631
+gpt-4o-2024-08-06_zeroshot_baseline_score_sbert	pressure	0.26170614793513175
+gpt-4o-2024-08-06_zeroshot_description_score_sbert	pressure	0.3521495646972242
+Meta-Llama-3.1-70B-Instruct_zeroshot_baseline_count	vermin	0.2937537219642495
+Meta-Llama-3.1-70B-Instruct_zeroshot_baseline_score	vermin	0.28589899641887134
+Meta-Llama-3.1-70B-Instruct_zeroshot_description_count	vermin	
+Meta-Llama-3.1-70B-Instruct_zeroshot_description_score	vermin	
+gpt-4-turbo-2024-04-09_zeroshot_baseline_count	vermin	0.3046710824466463
+gpt-4-turbo-2024-04-09_zeroshot_baseline_score	vermin	0.23892869718728546
+gpt-4-turbo-2024-04-09_zeroshot_description_count	vermin	0.3760073836483579
+gpt-4-turbo-2024-04-09_zeroshot_description_score	vermin	0.375847573652487
+gpt-4o-2024-08-06_zeroshot_baseline_count	vermin	0.34614440297223004
+gpt-4o-2024-08-06_zeroshot_baseline_score	vermin	0.34727823984771966
+gpt-4o-2024-08-06_zeroshot_description_count	vermin	0.2522206181071289
+gpt-4o-2024-08-06_zeroshot_description_score	vermin	0.2513431378900751
+baseline_sbert-carrier	vermin	0.32778641297395605
+baseline_count	vermin	0.3101031233382253
+baseline_gpt4-turbo	vermin	0.21270603458172158
+baseline_gpt4-turbo_sbert-carrier	vermin	0.3174559247871402
+Meta-Llama-3.1-70B-Instruct_zeroshot_baseline_score_sbert	vermin	0.4093493004243554
+Meta-Llama-3.1-70B-Instruct_zeroshot_description_score_sbert	vermin	0.32778641297395605
+gpt-4-turbo-2024-04-09_zeroshot_baseline_score_sbert	vermin	0.34984921584081685
+gpt-4-turbo-2024-04-09_zeroshot_description_score_sbert	vermin	0.40669008726095257
+gpt-4o-2024-08-06_zeroshot_baseline_score_sbert	vermin	0.42803677268929824
+gpt-4o-2024-08-06_zeroshot_description_score_sbert	vermin	0.3475526226542416
+Meta-Llama-3.1-70B-Instruct_zeroshot_baseline_count	parasite	0.35688667524226525
+Meta-Llama-3.1-70B-Instruct_zeroshot_baseline_score	parasite	0.3543761900962757
+Meta-Llama-3.1-70B-Instruct_zeroshot_description_count	parasite	0.11012825730010015
+Meta-Llama-3.1-70B-Instruct_zeroshot_description_score	parasite	0.11012732564807044
+gpt-4-turbo-2024-04-09_zeroshot_baseline_count	parasite	0.3172766760211562
+gpt-4-turbo-2024-04-09_zeroshot_baseline_score	parasite	0.3167664996979726
+gpt-4-turbo-2024-04-09_zeroshot_description_count	parasite	0.6299654156519554
+gpt-4-turbo-2024-04-09_zeroshot_description_score	parasite	0.6228151168525718
+gpt-4o-2024-08-06_zeroshot_baseline_count	parasite	0.37329732257260473
+gpt-4o-2024-08-06_zeroshot_baseline_score	parasite	0.360749329623844
+gpt-4o-2024-08-06_zeroshot_description_count	parasite	0.6011829460863712
+gpt-4o-2024-08-06_zeroshot_description_score	parasite	0.5943681494858388
+baseline_sbert-carrier	parasite	0.1469827815564116
+baseline_count	parasite	0.34600668167554327
+baseline_gpt4-turbo	parasite	0.2797124988083779
+baseline_gpt4-turbo_sbert-carrier	parasite	0.3232730597102749
+Meta-Llama-3.1-70B-Instruct_zeroshot_baseline_score_sbert	parasite	0.3758906043131231
+Meta-Llama-3.1-70B-Instruct_zeroshot_description_score_sbert	parasite	0.16308660468289046
+gpt-4-turbo-2024-04-09_zeroshot_baseline_score_sbert	parasite	0.34827448108431547
+gpt-4-turbo-2024-04-09_zeroshot_description_score_sbert	parasite	0.5425304632196098
+gpt-4o-2024-08-06_zeroshot_baseline_score_sbert	parasite	0.3768969029599942
+gpt-4o-2024-08-06_zeroshot_description_score_sbert	parasite	0.519795877980503
+Meta-Llama-3.1-70B-Instruct_zeroshot_baseline_count	overall	
+Meta-Llama-3.1-70B-Instruct_zeroshot_baseline_score	overall	
+Meta-Llama-3.1-70B-Instruct_zeroshot_description_count	overall	
+Meta-Llama-3.1-70B-Instruct_zeroshot_description_score	overall	
+gpt-4-turbo-2024-04-09_zeroshot_baseline_count	overall	
+gpt-4-turbo-2024-04-09_zeroshot_baseline_score	overall	
+gpt-4-turbo-2024-04-09_zeroshot_description_count	overall	
+gpt-4-turbo-2024-04-09_zeroshot_description_score	overall	
+gpt-4o-2024-08-06_zeroshot_baseline_count	overall	
+gpt-4o-2024-08-06_zeroshot_baseline_score	overall	
+gpt-4o-2024-08-06_zeroshot_description_count	overall	
+gpt-4o-2024-08-06_zeroshot_description_score	overall	
+baseline_sbert-carrier	overall	
+baseline_count	overall	
+baseline_gpt4-turbo	overall	
+baseline_gpt4-turbo_sbert-carrier	overall	
+Meta-Llama-3.1-70B-Instruct_zeroshot_baseline_score_sbert	overall	
+Meta-Llama-3.1-70B-Instruct_zeroshot_description_score_sbert	overall	
+gpt-4-turbo-2024-04-09_zeroshot_baseline_score_sbert	overall	
+gpt-4-turbo-2024-04-09_zeroshot_description_score_sbert	overall	
+gpt-4o-2024-08-06_zeroshot_baseline_score_sbert	overall	
+gpt-4o-2024-08-06_zeroshot_description_score_sbert	overall	
+Meta-Llama-3.1-70B-Instruct_zeroshot_baseline_count	water	0.6496247937192898
+Meta-Llama-3.1-70B-Instruct_zeroshot_baseline_score	water	0.6814632652965833
+Meta-Llama-3.1-70B-Instruct_zeroshot_description_count	water	0.06606553545000751
+Meta-Llama-3.1-70B-Instruct_zeroshot_description_score	water	0.06606553545000751
+gpt-4-turbo-2024-04-09_zeroshot_baseline_count	water	0.6278670714770231
+gpt-4-turbo-2024-04-09_zeroshot_baseline_score	water	0.6595000833320477
+gpt-4-turbo-2024-04-09_zeroshot_description_count	water	0.6509977818365115
+gpt-4-turbo-2024-04-09_zeroshot_description_score	water	0.65613959323631
+gpt-4o-2024-08-06_zeroshot_baseline_count	water	0.7056173517543227
+gpt-4o-2024-08-06_zeroshot_baseline_score	water	0.743769310431636
+gpt-4o-2024-08-06_zeroshot_description_count	water	0.7735515650674444
+gpt-4o-2024-08-06_zeroshot_description_score	water	0.7670139931635916
+baseline_sbert-carrier	water	0.2967311999532111
+baseline_count	water	0.5734495739430119
+baseline_gpt4-turbo	water	0.5729892522285114
+baseline_gpt4-turbo_sbert-carrier	water	0.5638792051479223
+Meta-Llama-3.1-70B-Instruct_zeroshot_baseline_score_sbert	water	0.6445454167384576
+Meta-Llama-3.1-70B-Instruct_zeroshot_description_score_sbert	water	0.3083316316464507
+gpt-4-turbo-2024-04-09_zeroshot_baseline_score_sbert	water	0.6615147124861136
+gpt-4-turbo-2024-04-09_zeroshot_description_score_sbert	water	0.6285956797723736
+gpt-4o-2024-08-06_zeroshot_baseline_score_sbert	water	0.7099616482861834
+gpt-4o-2024-08-06_zeroshot_description_score_sbert	water	0.7333201283028234
+Meta-Llama-3.1-70B-Instruct_zeroshot_baseline_count	all_documents	0.3768903729790089
+Meta-Llama-3.1-70B-Instruct_zeroshot_baseline_score	all_documents	0.3791791954713093
+Meta-Llama-3.1-70B-Instruct_zeroshot_description_count	all_documents	0.07619486301131023
+Meta-Llama-3.1-70B-Instruct_zeroshot_description_score	all_documents	0.07613131933552202
+gpt-4-turbo-2024-04-09_zeroshot_baseline_count	all_documents	0.3583573783085248
+gpt-4-turbo-2024-04-09_zeroshot_baseline_score	all_documents	0.3326161903891967
+gpt-4-turbo-2024-04-09_zeroshot_description_count	all_documents	0.5319000706963896
+gpt-4-turbo-2024-04-09_zeroshot_description_score	all_documents	0.5293535995973702
+gpt-4o-2024-08-06_zeroshot_baseline_count	all_documents	0.42360488659039075
+gpt-4o-2024-08-06_zeroshot_baseline_score	all_documents	0.4236684263855149
+gpt-4o-2024-08-06_zeroshot_description_count	all_documents	0.5324856347982688
+gpt-4o-2024-08-06_zeroshot_description_score	all_documents	0.5290119855097607
+baseline_sbert-carrier	all_documents	0.25975005232058723
+baseline_count	all_documents	0.37263088029865876
+baseline_gpt4-turbo	all_documents	0.29836502538149723
+baseline_gpt4-turbo_sbert-carrier	all_documents	0.38383557151051406
+Meta-Llama-3.1-70B-Instruct_zeroshot_baseline_score_sbert	all_documents	0.41147526179401933
+Meta-Llama-3.1-70B-Instruct_zeroshot_description_score_sbert	all_documents	0.2730146591886792
+gpt-4-turbo-2024-04-09_zeroshot_baseline_score_sbert	all_documents	0.39680298429691613
+gpt-4-turbo-2024-04-09_zeroshot_description_score_sbert	all_documents	0.5038054511719096
+gpt-4o-2024-08-06_zeroshot_baseline_score_sbert	all_documents	0.4431555682713055
+gpt-4o-2024-08-06_zeroshot_description_score_sbert	all_documents	0.4804368550621877

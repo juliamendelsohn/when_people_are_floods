@@ -1,0 +1,14 @@
+model	concept	roc_auc
+Meta-Llama-3.1-70B-Instruct_zeroshot_baseline_count	overall	0.7014001623376623
+Meta-Llama-3.1-70B-Instruct_zeroshot_baseline_score	overall	0.6919642857142858
+Meta-Llama-3.1-70B-Instruct_zeroshot_description_count	overall	0.6749188311688311
+Meta-Llama-3.1-70B-Instruct_zeroshot_description_score	overall	0.6563514610389609
+gpt-4-turbo-2024-04-09_zeroshot_baseline_count	overall	0.7225547889610391
+gpt-4-turbo-2024-04-09_zeroshot_baseline_score	overall	0.6853693181818182
+gpt-4-turbo-2024-04-09_zeroshot_description_count	overall	0.6396103896103896
+gpt-4-turbo-2024-04-09_zeroshot_description_score	overall	0.6196732954545454
+gpt-4o-2024-08-06_zeroshot_baseline_count	overall	0.5488534902597403
+gpt-4o-2024-08-06_zeroshot_baseline_score	overall	0.510247564935065
+gpt-4o-2024-08-06_zeroshot_description_count	overall	0.6644176136363638
+gpt-4o-2024-08-06_zeroshot_description_score	overall	0.6607142857142857
+baseline_gpt4-turbo	overall	0.6501623376623377

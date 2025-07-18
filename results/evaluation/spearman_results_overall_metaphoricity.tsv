@@ -1,0 +1,23 @@
+model	concept	r
+Meta-Llama-3.1-70B-Instruct_zeroshot_baseline_count	overall	0.4262426049818597
+Meta-Llama-3.1-70B-Instruct_zeroshot_baseline_score	overall	0.411507136730496
+Meta-Llama-3.1-70B-Instruct_zeroshot_description_count	overall	0.42812813358202345
+Meta-Llama-3.1-70B-Instruct_zeroshot_description_score	overall	0.39728873345469135
+gpt-4-turbo-2024-04-09_zeroshot_baseline_count	overall	0.43108204569010666
+gpt-4-turbo-2024-04-09_zeroshot_baseline_score	overall	0.36634790988980537
+gpt-4-turbo-2024-04-09_zeroshot_description_count	overall	0.359421562060993
+gpt-4-turbo-2024-04-09_zeroshot_description_score	overall	0.32061959714693455
+gpt-4o-2024-08-06_zeroshot_baseline_count	overall	0.15554015492245
+gpt-4o-2024-08-06_zeroshot_baseline_score	overall	0.09240446889823947
+gpt-4o-2024-08-06_zeroshot_description_count	overall	0.40112322515879406
+gpt-4o-2024-08-06_zeroshot_description_score	overall	0.39491107770853584
+baseline_sbert-carrier	overall	
+baseline_count	overall	
+baseline_gpt4-turbo	overall	0.3129596803824239
+baseline_gpt4-turbo_sbert-carrier	overall	
+Meta-Llama-3.1-70B-Instruct_zeroshot_baseline_score_sbert	overall	
+Meta-Llama-3.1-70B-Instruct_zeroshot_description_score_sbert	overall	
+gpt-4-turbo-2024-04-09_zeroshot_baseline_score_sbert	overall	
+gpt-4-turbo-2024-04-09_zeroshot_description_score_sbert	overall	
+gpt-4o-2024-08-06_zeroshot_baseline_score_sbert	overall	
+gpt-4o-2024-08-06_zeroshot_description_score_sbert	overall	
